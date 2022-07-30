@@ -5,4 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohyoonah&show_icons=true)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhdbsdk33)](https://solved.ac/dhdbsdk33)
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ebd8f0&height=130&section=footer"/>
